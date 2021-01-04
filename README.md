@@ -1,4 +1,4 @@
-# Dive-in-Python
+# Insta-Profile-Pic-Downloader
 
 
-This repository contains all the mini python projects based on python libraries.
+This repository contains code how to download profile pic of any user from instagram.
